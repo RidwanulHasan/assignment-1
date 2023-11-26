@@ -140,7 +140,51 @@ header{
 }
 
 
+/* footer area design  */
 
+.footer-container{
+    display: flex;
+    background-color: #0a0a0a;
+    padding: 200px;
+    gap: 100px;
+    color: #FFF;
+    
+    
+}
+
+.input-container{
+    width: 100%;
+}
+
+
+.footer-title{
+    font-size: 40px;
+    margin-bottom: 20px;
+    
+}
+
+form{
+    margin-top: 20px;
+}
+
+
+.input-design{
+
+    width: 100%;
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+
+}
+
+.phone-number{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.email{
+    margin-top: 20px;
+}
 
 
 
