@@ -98,7 +98,7 @@ header{
 
 .plan-flex{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .plan-flex .bold{
@@ -115,6 +115,32 @@ header{
 .plan-flex div{
     text-align: center;
 }
+
+/* positive area design  */
+
+.positive-container{
+    background-image: url(../images/gradient1.png) , url(../images/watch.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    
+}
+
+.positive-title{
+
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFF;
+    margin-bottom: 10px;
+
+}
+
+.positive-padding{
+     padding-left: 50px;
+     padding-top: 60px;
+}
+
+
+
 
 
 
